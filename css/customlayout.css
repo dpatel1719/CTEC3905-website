@@ -29,8 +29,8 @@ body{
 }
 .fb {
 
- width: 160px;
- height:160px;
+ width: 100px;
+ height:100px;
  display: block;
   background:transparent url('../images/facebook-grey.jpg') center top no-repeat;
 }
@@ -40,8 +40,8 @@ body{
 }
 .insta {
 
- width: 160px;
- height:160px;
+ width: 100px;
+ height:100px;
  display: block;
   background:transparent url('../images/instagram-grey.jpg') center top no-repeat;
 }
